@@ -5,7 +5,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="text-center">Copyright &copy; Tondale Inc <?php echo date('Y'); ?></p>
+                    <p class="text-center">Copyright &copy; The Photo Gallery Inc <?php echo date('Y'); ?></p>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
